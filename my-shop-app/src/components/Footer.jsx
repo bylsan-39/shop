@@ -80,6 +80,7 @@ function Footer() {
                 </div>
             </div>
         </div>
+        // made by bylsan with love 2026
     );
 }
 export default Footer
